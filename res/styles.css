@@ -1,0 +1,16 @@
+body {
+    font-family: ui-sans-serif,system-ui,-apple-system,Segoe UI,Roboto,Ubuntu,Cantarell,Noto Sans,sans-serif,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+    background-color: #263238;
+}
+h1 {
+    color: #eceff1;
+    text-shadow: #000000f0 0.1rem 0.1rem 0.25rem;
+}
+.img1 {
+    border: 1px solid #eceff1;
+    border-radius: 0.25rem;
+    box-shadow: #000000f0 0.5rem 0.5rem 0.25rem;
+}
+.centered {
+    text-align: center;
+}
