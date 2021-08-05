@@ -9,6 +9,7 @@ h1 {
 .img1 {
     width: 100%;
     max-width: 640;
+    height: auto;
     border: 1px solid #eceff1;
     border-radius: 0.25rem;
     box-shadow: #000000f0 0.5rem 0.5rem 0.25rem;
